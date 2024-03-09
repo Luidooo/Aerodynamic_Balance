@@ -1,5 +1,7 @@
 # Aerodynamic Balance Documentation
 
+[Documentation in Portuguese](README_pt.md)
+
 ## Introduction
 Welcome to the documentation for the Aerodynamic Balance project! This project was developed by students of the University of Brasilia to create a balance capable of measuring aerodynamic forces on objects. In this documentation, you'll find information on the project, how to use the balance, contribute to the project, and more.
 
@@ -34,8 +36,7 @@ If you encounter any issues, have questions, or need assistance with the Aerodyn
 This project is licensed under the [insert license here]. See the LICENSE file for more details.
 
 ## Authors
-- [Author 1](link to author 1's GitHub profile)
-- [Author 2](link to author 2's GitHub profile)
+- [Luis Eduardo C. M. de Lima](https://github.com/Luidooo)
+- [Patrick ](link to author 2's GitHub profile)
 
-Thank you for your interest in the Aerodynamic Balance project!
 
