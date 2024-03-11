@@ -1,0 +1,35 @@
+HX711 Module 1:
+- DT: GPIO32
+- SCK: GPIO33
+
+HX711 Module 2:
+- DT: GPIO25
+- SCK: GPIO26
+
+HX711 Module 3:
+- DT: GPIO14
+- SCK: GPIO12
+
+HX711 Module 4:
+- DT: GPIO27
+- SCK: GPIO14
+
+HX711 Module 5:
+- DT: GPIO13
+- SCK: GPIO15
+
+SD Card Module:
+- MISO: GPIO19
+- MOSI: GPIO23
+- SCK: GPIO18
+- CS: GPIO5
+
+LED:
+- Anode (Longer leg): GPIO2
+- Cathode (Shorter leg): GND (through a current-limiting resistor)
+
+Servo Motor:
+- Signal: GPIO4
+- Power: 5V (from external power supply)
+- Ground: GND
+
